@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\exceptions\bin\Debug\net6.0\exceptions.exe
+C:\Users\Admin\OneDrive\Desktop\exceptions\bin\Debug\net6.0\exceptions.deps.json
+C:\Users\Admin\OneDrive\Desktop\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\exceptions\bin\Debug\net6.0\exceptions.dll
+C:\Users\Admin\OneDrive\Desktop\exceptions\bin\Debug\net6.0\exceptions.pdb
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.dll
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.pdb
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\exceptions\obj\Debug\net6.0\ref\exceptions.dll
